@@ -9,4 +9,4 @@ To get started with OpenGL programming and Run this project:
 5. Run <b>main.cpp</b> file.
 6. You're done.
 
-<b>Note:</> This project has already shown on Computer Graphics courses. If you download this project to show as your lab project then be careful about it.
+<b>Note: This project has already shown on Computer Graphics courses. If you download this project to show as your lab project then be careful about it. </b>
