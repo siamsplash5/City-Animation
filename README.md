@@ -1,12 +1,20 @@
-# City-Animation---OpenGL Project
+# City-Animation - OpenGL Project
 
-To get started with OpenGL programming and Run this project:
+This is a C++ project that uses the OpenGL graphics library to create a city animation. 
 
-1. Download and install <a href="https://code.visualstudio.com/">Visual Studio Code</a> if you have not already.
-2. Install VS Code Extesion <a href="https://marketplace.visualstudio.com/items?itemName=AlbinBD.run">Run++</a>.
-3. Download or Clone <a href="https://github.com/MdAlbinHossain/Computer-Graphics">this</a> repository and open OpenGL Programming folder in Visual Studio Code. 
-4. Download or Clone this repository and open <b>City-Animation</b> folder inside <b>OpenGL Programming</b> folder.
-5. Run <b>main.cpp</b> file.
-6. You're done.
+## Getting Started:
 
-<b>Note: This project has already shown on Computer Graphics courses. If you download this project to show as your lab project then be careful about it. </b>
+To get started with OpenGL programming and run this project:
+
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/) if you haven't already.
+2. Install the [Run++ extension](https://marketplace.visualstudio.com/items?itemName=AlbinBD.run) for VS Code.
+3. Clone or download [this repository](https://github.com/MdAlbinHossain/Computer-Graphics) and open the `OpenGL Programming` folder in VS Code.
+4. Navigate to the `City-Animation` folder inside `OpenGL Programming`.
+5. Run the `main.cpp` file to launch the city animation.
+6. You're done!
+
+Please note that this project has already been shown in Computer Graphics courses. If you're downloading this project to use as a lab project, make sure to exercise caution.
+
+## License:
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
